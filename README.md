@@ -1,5 +1,7 @@
 # Tron Collection
 
+[![codecov](https://codecov.io/gh/richelbilderbeek/tron_collection/branch/main/graph/badge.svg)](https://codecov.io/gh/richelbilderbeek/tron_collection)
+
 - [Go to the nicely rendered website](https://richelbilderbeek.github.io/tron_collection/).
 
 ## Files used by continuous integration scripts
